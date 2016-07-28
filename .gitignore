@@ -53,3 +53,5 @@ digvenv
 *.py[cod]
 digarchiver/digarchiver/__pycache__
 
+*.scssc
+.sass-cache/
