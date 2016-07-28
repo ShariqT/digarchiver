@@ -46,8 +46,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
 #VirtualEnv
 digvenv
 
 *.py[cod]
 digarchiver/digarchiver/__pycache__
+
